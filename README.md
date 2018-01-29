@@ -35,7 +35,7 @@
 
 **开发：**
 
-``npm start``
+``npm run dev``
 
 **构建:**
 
