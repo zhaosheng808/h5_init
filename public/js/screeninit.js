@@ -21,7 +21,7 @@
         }
     };
 
-    screenInit.setMetaTag();
+    // screenInit.setMetaTag();
     screenInit.setDefaultFontSize();
     window.addEventListener('resize', screenInit.setDefaultFontSize, false);
 })();
